@@ -6,4 +6,4 @@ Tag是版本号   目前只有1.1.0
 
 maven { url "https://jitpack.io" }
 
-implementation 'com.github.1834907589:MyTool:Tag'
+implementation 'com.github.fxn-sm:MyTool:Tag'
